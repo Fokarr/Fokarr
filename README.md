@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fokarr
 - 🤖 Founder and Developer/Designer of [exord.de](https://exord.de) and [matani.dev](https://matani.dev)
 - 👀 I’m interested in awesome looking websites/webapps
-- 💞️ I’m looking for investors to finance my stupid ideas
 - 📫 Reach out to me on exord.de or write me a mail jarmo@exord.de
 
 
