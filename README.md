@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Fokarr
 - 🤖 Founder and Developer of [exord.de](https://exord.de)
-- 👀 I’m interested in awesome looking websites/webapps
 - 📫 Reach out to me on exord.de or write me a mail jarmo@exord.de
 
 
