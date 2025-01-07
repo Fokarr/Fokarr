@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fokarr
+- 👋 Hi, I’m Jarmo
 - 🤖 Founder and Developer of [exord.de](https://exord.de)
 - 📫 Reach out to me on exord.de or write me a mail jarmo@exord.de
 
